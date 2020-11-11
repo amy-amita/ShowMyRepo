@@ -1,1 +1,3 @@
-# ShowMyRepo
+# ShowMyRepoD
+Amita Auan
+	James NARAK
